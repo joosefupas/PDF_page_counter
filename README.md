@@ -18,3 +18,7 @@ This script counts the total number of pages in all PDF files contained in a sel
 - Click the "Select folder" button and choose the folder containing the PDF files.
 - Enter the price per page in the "Price per page" field.
 - Click the "Count" button to display the total number of pages and the total price for all prints in the main window.
+
+
+# License
+This script is released under the MIT license.
